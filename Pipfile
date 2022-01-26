@@ -8,7 +8,7 @@ pylint = "*"
 ipython = "*"
 
 [packages]
-django = "~=2.2.0"
+django = "~=2.2.26"
 
 [requires]
 python_version = "3"
